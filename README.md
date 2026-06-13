@@ -19,16 +19,18 @@ Je développe ce portfolio pour montrer ma progression, mes labs, mes analyses e
 
 ---
 
-## Ce que j’apprends actuellement
+## Compétences développées
 
-- fondamentaux de la cybersécurité
+- analyse de logs
+- triage d’alertes
 - analyse de phishing
-- bases réseau
-- introduction aux EDR
+- investigation d’incidents
+- fondamentaux Blue Team
+- Linux
+- Splunk Enterprise
 - MITRE ATT&CK
-- métriques SOC (MTTD, MTTR, faux positifs)
-- méthodologie d’investigation
-- environnement de lab sur **macOS** avec **QEMU / UTM**
+- NIST CSF
+
 
 ---
 
@@ -36,6 +38,17 @@ Je développe ce portfolio pour montrer ma progression, mes labs, mes analyses e
 
 - Google Cybersecurity Certificate *(obtenu)*
 - montée en compétences vers un poste de **SOC Analyst L1**
+
+---
+
+## Objectif professionnel
+
+Intégrer un premier poste en SOC / Blue Team afin de continuer à progresser sur :
+- SIEM
+- détection
+- investigation
+- réponse à incident
+- threat hunting
 
 ---
 
