@@ -7,16 +7,13 @@ Je me forme pas à pas en **cybersécurité défensive**,
 
 ---
 
-## À propos de moi
+## mes projets phares 
 
-Je suis en reconversion vers la cybersécurité, avec un focus sur le métier d’**Analyste SOC**.  
-Mon objectif est d’acquérir une base solide en :
-
-- surveillance et triage d’alertes
-- analyse de logs
-- investigation d’incidents
-- détection de phishing
-- outils et méthodologies Blue Team
+- Analyse d’un email de phishing
+- analyse de logs de sécurité
+- Triage d’une alerte SOC
+- Analyse d’incident SOC avec le NIST CSF
+- j’ai aussi mis en place un lab personnel Splunk Enterprise sous Linux pour pratiquer l’analyse de logs et l’investigation de scénarios simples de sécurité.
 
 Je développe ce portfolio pour montrer ma progression, mes labs, mes analyses et mes projets pratiques.
 
@@ -39,18 +36,6 @@ Je développe ce portfolio pour montrer ma progression, mes labs, mes analyses e
 
 - Google Cybersecurity Certificate *(obtenu)*
 - montée en compétences vers un poste de **SOC Analyst L1**
-
----
-
-## Objectif professionnel
-
-Décrocher un premier poste en **SOC / Blue Team** et continuer à monter en compétence sur :
-
-- SIEM
-- détection
-- investigation
-- réponse à incident
-- threat hunting
 
 ---
 
