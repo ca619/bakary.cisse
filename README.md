@@ -28,6 +28,12 @@ Analyse de journaux de sécurité pour identifier des comportements suspects.
 
 ➡️ [Voir le projet](./analyse_logs_securite)
 
+### Détection d’un scan Nmap avec Suricata et Splunk
+
+Lab SOC de détection d’une activité de reconnaissance réseau.  
+
+➡️ [Voir le projet](./nmap-scan-detection-lab/README_projet_soc_suricata_splunk.md)
+
 ---
 
 ## Compétences développées
