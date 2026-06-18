@@ -56,7 +56,7 @@ La machine Kali possède l’adresse IP suivante :
 
 Cette machine sera utilisée comme source du scan réseau.
 
-![Configuration réseau Kali](images/kali_network_configuration.png)
+![Configuration réseau Kali](./images/kali_network_configuration.png.png)
 
 ---
 
@@ -138,7 +138,7 @@ Interprétation :
 - Les ports ciblés sont `8000` et `8089`.
 - Suricata identifie l’activité comme un comportement de scan Nmap.
 
-![Alertes Suricata fast.log](images/suricata_alerts_fastlog.png)
+![Alertes Suricata fast.log](images/suricata_alerts_fastlog.png.png)
 
 ---
 
