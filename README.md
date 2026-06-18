@@ -6,31 +6,27 @@ Je construis activement mon profil pour devenir **Analyste SOC junior**.
 Je me forme pas à pas en **cybersécurité défensive**, 
 
 ---
-
-## 🔐 Projets SOC
+## Projets SOC
 
 ### Splunk Suricata SOC Lab
-- Déploiement de Splunk Enterprise
-- Intégration des logs Suricata
-- Création de requêtes SPL
-- Dashboard SOC
+Laboratoire SOC avec Splunk Enterprise et Suricata IDS pour collecter, analyser et visualiser des événements réseau.
 
-### Analyse d'emails de phishing
-- Analyse des en-têtes
-- Identification des IOC
-- Investigation d'un email suspect
+➡️ [Voir le projet](./splunk-suricata-soc-lab)
 
-### Triage d'alertes SOC
-- Qualification d'alertes
-- Analyse d'événements
-- Priorisation des incidents
+### Analyse d’email de phishing
+Projet d’analyse d’un email suspect avec identification des éléments de phishing et indicateurs de compromission.
 
-### Analyse d'incident selon le framework NIST CSF
-- Identification
-- Protection
-- Détection
-- Réponse
-- Rétablissement
+➡️ [Voir le projet](./analyse-email-phishing)
+
+### Triage d’alerte SOC
+Simulation de triage d’alerte SOC avec analyse, qualification et décision d’escalade.
+
+➡️ [Voir le projet](./triage-alerte-soc)
+
+### Analyse de logs de sécurité
+Analyse de journaux de sécurité pour identifier des comportements suspects.
+
+➡️ [Voir le projet](./analyse_logs_securite)
 
 ---
 
