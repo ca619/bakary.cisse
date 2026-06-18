@@ -77,7 +77,7 @@ Le scan a permis d’identifier deux ports ouverts :
 
 Ces ports correspondent à des services utilisés par Splunk.
 
-![Scan Nmap SYN](images/nmap_scan_splunk_ports_8000_8089.png)
+![Scan Nmap SYN](./images/nmap_scan_splunk_ports_8000_8089.png)
 
 ---
 
@@ -98,7 +98,7 @@ Le résultat confirme la présence de services Splunk :
 
 Le scan permet également d’identifier des informations supplémentaires sur les services exposés.
 
-![Scan Nmap avancé](images/nmap_scan_splunk_server.png)
+![Scan Nmap avancé](./images/nmap_scan_splunk_server.png)
 
 ---
 
@@ -138,7 +138,7 @@ Interprétation :
 - Les ports ciblés sont `8000` et `8089`.
 - Suricata identifie l’activité comme un comportement de scan Nmap.
 
-![Alertes Suricata fast.log](images/suricata_alerts_fastlog.png.png)
+![Alertes Suricata fast.log](./images/suricata_alerts_fastlog.png.png)
 
 ---
 
@@ -162,7 +162,7 @@ On retrouve les éléments importants :
 - Destination : `192.168.1.71`
 - Ports ciblés : `8000` et `8089`
 
-![Alertes Suricata dans Splunk](images/splunk_suricata_alerts.png)
+![Alertes Suricata dans Splunk](./images/splunk_suricata_alerts.png)
 
 ---
 
