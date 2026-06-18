@@ -7,15 +7,30 @@ Je me forme pas à pas en **cybersécurité défensive**,
 
 ---
 
-## mes projets phares 
+## 🔐 Projets SOC
 
-- Analyse d’un email de phishing
-- analyse de logs de sécurité
-- Triage d’une alerte SOC
-- Analyse d’incident SOC avec le NIST CSF
-- j’ai aussi mis en place un lab personnel Splunk Enterprise sous Linux pour pratiquer l’analyse de logs et l’investigation de scénarios simples de sécurité.
+### Splunk Suricata SOC Lab
+- Déploiement de Splunk Enterprise
+- Intégration des logs Suricata
+- Création de requêtes SPL
+- Dashboard SOC
 
-Je développe ce portfolio pour montrer ma progression, mes labs, mes analyses et mes projets pratiques.
+### Analyse d'emails de phishing
+- Analyse des en-têtes
+- Identification des IOC
+- Investigation d'un email suspect
+
+### Triage d'alertes SOC
+- Qualification d'alertes
+- Analyse d'événements
+- Priorisation des incidents
+
+### Analyse d'incident selon le framework NIST CSF
+- Identification
+- Protection
+- Détection
+- Réponse
+- Rétablissement
 
 ---
 
