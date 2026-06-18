@@ -1,7 +1,7 @@
 
 # Test
 
-![Test](images/dashboard soc.png)
+![Test](./images/dashboard soc.png)
 
 
 # Splunk Suricata SOC Lab
