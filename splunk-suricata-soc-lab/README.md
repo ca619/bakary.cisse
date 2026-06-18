@@ -1,8 +1,3 @@
-
-
-![Dashboard SOC](./images/dashboard-soc.png)
-
-
 # Splunk Suricata SOC Lab
 
 ## Présentation
@@ -69,7 +64,7 @@ Cette recherche permet de vérifier que les événements sont correctement index
 
 ### Capture
 
-![Vérification des index](images/Vérification des index.png)
+![Vérification des index](./images/verification-index.png)
 
 ---
 
@@ -83,7 +78,7 @@ index=main sourcetype=suricata
 
 ### Capture
 
-![Événements Suricata](images/Vérification des événements Suricata.png)
+![Événements Suricata](./images/verification-evenements-suricata.png)
 
 ---
 
@@ -127,11 +122,11 @@ index=main sourcetype=suricata
 
 ### Top des alertes
 
-![Top des alertes](images/Top des alertes.png)
+![Top des alertes](./images/top-alertes.png)
 
 ### Top des IP sources
 
-![Top IP Sources](images/Top ip sources.png)
+![Top IP Sources](./images/top-ip-source.png)
 
 ---
 
@@ -149,7 +144,9 @@ Le dashboard permet de visualiser :
 
 ### Capture
 
-![dashboard SOC](images/dashboard soc.png)
+![Dashboard SOC](<p align="center">
+  <img src="images/dashboard-soc.png" width="900">
+</p>)
 
 ---
 
