@@ -144,9 +144,9 @@ Le dashboard permet de visualiser :
 
 ### Capture
 
-![Dashboard SOC](<p align="center">
+<p align="center">
   <img src="images/dashboard-soc.png" width="900">
-</p>)
+</p>
 
 ---
 
