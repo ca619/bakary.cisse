@@ -78,7 +78,7 @@ index=main sourcetype=suricata
 
 ### Capture
 
-![Événements Suricata](images/Vérification des événements Suricata.png)
+![Vérification des événements Suricata](images/Vérification des événements Suricata.png)
 
 ---
 
@@ -126,7 +126,7 @@ index=main sourcetype=suricata
 
 ### Top des IP sources
 
-![Top IP Sources](images/Top ip sources.png)
+![Top IP source](images/Top IP source.png)
 
 ---
 
@@ -144,7 +144,7 @@ Le dashboard permet de visualiser :
 
 ### Capture
 
-![dashboard SOC](images/dashboard soc.png)
+![dashboard soc](images/dashboard soc.png)
 
 ---
 
