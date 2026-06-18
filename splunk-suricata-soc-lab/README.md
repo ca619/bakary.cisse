@@ -1,3 +1,9 @@
+
+# Test
+
+![Test](images/dashboard soc.png)
+
+
 # Splunk Suricata SOC Lab
 
 ## Présentation
