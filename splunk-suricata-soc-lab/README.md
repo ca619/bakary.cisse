@@ -1,3 +1,8 @@
+
+
+![Dashboard SOC](./images/dashboard-soc.png)
+
+
 # Splunk Suricata SOC Lab
 
 ## Présentation
